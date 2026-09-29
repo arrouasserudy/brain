@@ -1,4 +1,4 @@
-# Second cerveau de Rudy
+# Brain — second cerveau de Rudy
 
 Coffre Obsidian synchronisé via GitHub. Rudy raconte, Claude range.
 
