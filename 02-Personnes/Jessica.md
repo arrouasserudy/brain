@@ -17,4 +17,7 @@ updated: 2026-09-30
 - A suivi une formation en data science.
 - En recherche d'emploi (septembre 2026).
 
+## Ce qui compte pour elle
+- Très religieuse, elle aime beaucoup tout ce qui touche à la religion et à la Torah.
+
 ## Historique
