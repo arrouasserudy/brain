@@ -7,10 +7,14 @@ updated: 2026-09-30
 ---
 # Jessica
 
-**Relation :** ma femme
-**Cercle :** [[Famille]]
+**Relation :** ma femme — mariés le 13 novembre 2016
+**Naissance :** 17 janvier 1992
+**Famille :** sœur [[Michaela]], frère [[Johan]], parents [[Rachel]] et [[Samy]]
+**Enfants :** [[Yochai]], [[Lavi]], [[Idan]]
 
-## Contexte
-*À remplir.*
+## Parcours
+- Bioinformaticienne.
+- A suivi une formation en data science.
+- En recherche d'emploi (septembre 2026).
 
 ## Historique
