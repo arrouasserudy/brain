@@ -6,7 +6,9 @@ updated: 2026-10-01
 ---
 # Mes objectifs
 
-*À remplir.*
+## Pro
+- Devenir un expert de l'IA et des agents — c'est une techno récente, je ne le suis pas encore et j'aimerais vraiment le devenir. (Pas de date.)
+- Créer de nouvelles sources de revenus sur mon temps libre — [[Ergo.AI]], [[Shula]].
 
 ## Long terme (5-10 ans)
 
