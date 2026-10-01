@@ -14,5 +14,12 @@ updated: 2026-10-01
 ## Ce que c'est
 - L'appli que j'ai développée : elle transforme les groupes WhatsApp de parents d'élèves en infos utiles (dates, choses à apporter, paiements, inscriptions), avec des rappels.
 
-## État
-- *À préciser.*
+## État (1er octobre 2026)
+- L'appli tourne ; je l'utilise personnellement.
+- Je ne l'ai encore montrée à personne.
+- Pendant les vacances, il y a peu d'activité dans les groupes.
+
+## Prochaines étapes
+- [ ] Attendre la reprise de l'activité dans les groupes après les vacances.
+- [ ] Préparer une belle démo avec de vraies données.
+- [ ] La montrer à des gens.
