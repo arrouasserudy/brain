@@ -1,4 +1,5 @@
 ---
+description: 
 type: journal
 date: {{date}}
 tags: []

@@ -1,4 +1,5 @@
 ---
+description: Questions pour optimiser le coffre et réponses déjà données (usages prioritaires)
 type: questionnaire
 tags: [second-cerveau]
 created: 2026-10-01

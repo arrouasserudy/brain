@@ -1,4 +1,5 @@
 ---
+description: Graphe de mes contacts par cercle de vie, associés potentiels
 type: domaine
 tags: [reseau]
 updated: 2026-09-29

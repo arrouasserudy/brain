@@ -1,4 +1,5 @@
 ---
+description: Mes centres d'intérêt : tech et IA, cerveau et biais, investissement, films, sport
 type: domaine
 tags: [interets]
 created: 2026-09-30

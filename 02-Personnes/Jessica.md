@@ -1,4 +1,5 @@
 ---
+description: Jessica — ma femme, née le 17/01/1992, bioinformaticienne en recherche d'emploi
 type: personne
 aliases: [ma femme]
 tags: [famille]

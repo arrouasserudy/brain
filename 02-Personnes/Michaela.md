@@ -1,4 +1,5 @@
 ---
+description: Michaela — belle-sœur (sœur de Jessica), ergothérapeute pédiatrique, partenaire d'Ergo.AI
 type: personne
 cercle: "Famille"
 metier: "Ergothérapeute pédiatrique"

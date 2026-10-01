@@ -1,4 +1,5 @@
 ---
+description: Avigaël — comptable, amie de Bar-Ilan, associée potentielle
 type: personne
 cercle: "Bar-Ilan"
 metier: "Comptable"

@@ -1,4 +1,5 @@
 ---
+description: Yoav — développeur, beau-fils de Jonas, partenaire technique potentiel
 type: personne
 cercle: "À préciser"
 metier: "Développeur"

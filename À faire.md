@@ -1,4 +1,5 @@
 ---
+description: Toutes les tâches avec leurs échéances (urgent, bientôt, un jour, fait)
 type: taches
 tags: [taches]
 created: 2026-10-01

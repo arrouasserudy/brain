@@ -1,4 +1,5 @@
 ---
+description: Lavi — mon fils du milieu, né le 13/11/2022
 type: personne
 aliases: []
 tags: [famille]

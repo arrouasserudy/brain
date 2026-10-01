@@ -1,4 +1,5 @@
 ---
+description: Samy — beau-père (père de Jessica), Netanya
 type: personne
 aliases: [beau-père]
 tags: [famille]

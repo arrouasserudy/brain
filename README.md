@@ -3,6 +3,7 @@
 Coffre Obsidian synchronisé via GitHub. Rudy raconte, Claude range.
 
 ## Structure
+- `_index.md` — point d'entrée ; chaque dossier a aussi son `_index.md` généré (`python3 scripts/build_index.py`)
 - `À faire.md` — toutes les tâches, avec échéances
 - `00-Inbox/` — notes brutes pas encore triées
 - `01-Journal/` — une note par jour (`AAAA-MM-JJ.md`)
@@ -17,6 +18,6 @@ Coffre Obsidian synchronisé via GitHub. Rudy raconte, Claude range.
 ## Règles de rangement
 - Une note par sujet ; on met à jour plutôt que dupliquer.
 - Liens `[[Nom]]` entre personnes, projets et domaines.
-- Frontmatter YAML : `type`, `tags`, `created`, `updated`.
+- Frontmatter YAML : `description` (une ligne, obligatoire), `type`, `tags`, `created`, `updated`.
 - Dates au format ISO (AAAA-MM-JJ). Contenu en français.
 - En cas de doute : `00-Inbox/`, trié plus tard.

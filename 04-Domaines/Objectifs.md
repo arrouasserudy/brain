@@ -1,4 +1,5 @@
 ---
+description: Mes objectifs pro et perso (expert IA, revenus, sport)
 type: domaine
 tags: []
 created: 2026-09-30

@@ -1,4 +1,5 @@
 ---
+description: Placements (S&P 500, actions), gestion du budget (Moneytor), osek patur
 type: domaine
 tags: [finances]
 updated: 2026-10-01

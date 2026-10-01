@@ -1,4 +1,5 @@
 ---
+description: Itzik — ostéopathe ou kiné, ami (Givat Shmuel ?), associé potentiel
 type: personne
 cercle: "Givat Shmuel"
 metier: "Ostéopathe ou kiné (à confirmer)"

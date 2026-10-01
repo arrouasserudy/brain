@@ -1,4 +1,5 @@
 ---
+description: Fermeture de mon osek patur avant décembre 2026 — étapes TVA, impôts, Bituach Leumi
 type: projet
 statut: actif
 echeance: 2026-11-30

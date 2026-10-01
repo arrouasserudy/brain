@@ -1,4 +1,5 @@
 ---
+description: Livres à lire, en cours et lus
 type: liste
 tags: [livres]
 created: 2026-09-29

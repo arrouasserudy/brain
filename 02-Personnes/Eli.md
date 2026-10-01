@@ -1,4 +1,5 @@
 ---
+description: Eli — psychologue, ami de Bar-Ilan, lien possible avec le projet ergo
 type: personne
 cercle: "Bar-Ilan"
 metier: "Psychologue"

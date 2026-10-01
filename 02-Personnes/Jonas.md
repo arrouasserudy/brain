@@ -1,4 +1,5 @@
 ---
+description: Jonas — artisan polyvalent, beau-père de Yoav, associé potentiel
 type: personne
 cercle: "À préciser"
 metier: "Artisan polyvalent (plombier, électricien, homme à tout faire)"

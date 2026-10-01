@@ -1,4 +1,5 @@
 ---
+description: Teddy — avocat, ami de Bar-Ilan, associé potentiel
 type: personne
 cercle: "Bar-Ilan"
 metier: "Avocat"

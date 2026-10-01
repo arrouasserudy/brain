@@ -1,0 +1,14 @@
+---
+type: index
+description: Index généré de 06-Ressources — ne pas éditer à la main
+---
+# 06-Ressources
+
+Listes et savoirs : livres, films, liens, envies d'achat, méthodes.
+
+- [[Envies d'achat]] — Les choses que j'aimerais acheter pour moi
+- [[Films que j'ai aimés]] — Films que j'ai aimés (plot twists, Marvel)
+- [[Liens à lire ou voir]] — Liens à lire ou à voir (articles, vidéos, podcasts)
+- [[Livres que j'ai aimés]] — Livres que j'ai aimés
+- [[Livres à lire]] — Livres à lire, en cours et lus
+- [[Second cerveau — bonnes pratiques]] — Synthèse des bonnes pratiques second cerveau (PARA, CODE, Obsidian + IA)

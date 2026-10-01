@@ -1,4 +1,5 @@
 ---
+description: Michel — mon père, né le 20/07/1963, informaticien, Netanya
 type: personne
 aliases: [papa, mon père]
 tags: [famille]

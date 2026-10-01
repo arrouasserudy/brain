@@ -1,4 +1,5 @@
 ---
+description: Mon poste chez Blocks et mes sources de revenus à côté
 type: domaine
 tags: [travail]
 updated: 2026-10-01

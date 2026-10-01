@@ -1,4 +1,5 @@
 ---
+description: Shula — mon appli qui résume les groupes WhatsApp de parents, état et prochaines étapes
 type: projet
 statut: actif
 tags: [side-project, revenus]

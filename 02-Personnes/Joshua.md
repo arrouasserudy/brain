@@ -1,4 +1,5 @@
 ---
+description: Joshua — beau-frère, mari d'Orlane, Netanya
 type: personne
 aliases: [beau-frère]
 tags: [famille]

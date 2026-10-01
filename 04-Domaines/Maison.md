@@ -1,4 +1,5 @@
 ---
+description: Logistique du foyer : inscriptions et paiements des enfants, rendez-vous, papiers
 type: domaine
 tags: [maison, logistique]
 updated: 2026-10-01

@@ -1,4 +1,5 @@
 ---
+description: Voiture : échéances assurance, test et révision
 type: domaine
 tags: [voiture, maison]
 created: 2026-10-01

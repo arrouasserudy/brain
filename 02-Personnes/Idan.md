@@ -1,4 +1,5 @@
 ---
+description: Idan — mon fils cadet, né le 27/10/2025
 type: personne
 aliases: []
 tags: [famille]

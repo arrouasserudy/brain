@@ -1,4 +1,5 @@
 ---
+description: Les choses que j'aimerais acheter pour moi
 type: liste
 tags: [achats]
 created: 2026-09-30

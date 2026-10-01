@@ -1,4 +1,5 @@
 ---
+description: Liens à lire ou à voir (articles, vidéos, podcasts)
 type: liste
 tags: [a-lire, a-voir]
 created: 2026-09-29

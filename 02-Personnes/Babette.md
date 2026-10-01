@@ -1,4 +1,5 @@
 ---
+description: Babette (Elisabeth) — ma mère, née le 17/10/1966, Netanya, aime le naturel et le tai-chi
 type: personne
 aliases: [Elisabeth, maman, ma mère]
 tags: [famille]

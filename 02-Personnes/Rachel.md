@@ -1,4 +1,5 @@
 ---
+description: Rachel — belle-mère (mère de Jessica), Netanya
 type: personne
 aliases: [belle-mère]
 tags: [famille]

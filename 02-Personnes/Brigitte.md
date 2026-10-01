@@ -1,4 +1,5 @@
 ---
+description: Brigitte — famille, ex-conseillère en budget avec podcast, associée potentielle
 type: personne
 cercle: "Famille"
 metier: "Ex-conseillère en budget (podcast, clientèle) — activité en pause"

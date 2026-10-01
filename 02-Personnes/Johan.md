@@ -1,4 +1,5 @@
 ---
+description: Johan — beau-frère, frère de Jessica
 type: personne
 aliases: [beau-frère]
 tags: [famille]

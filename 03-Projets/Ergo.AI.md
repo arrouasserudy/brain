@@ -1,4 +1,5 @@
 ---
+description: Ergo.AI — side project IA pour l'ergothérapie pédiatrique avec Michaela
 type: projet
 statut: actif
 tags: [side-project, revenus]

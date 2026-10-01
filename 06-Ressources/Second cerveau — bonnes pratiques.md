@@ -1,4 +1,5 @@
 ---
+description: Synthèse des bonnes pratiques second cerveau (PARA, CODE, Obsidian + IA)
 type: ressource
 tags: [second-cerveau, methode]
 created: 2026-10-01

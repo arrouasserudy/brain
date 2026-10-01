@@ -1,4 +1,5 @@
 ---
+description: Simon — data analyst, ami de Bar-Ilan, partenaire technique potentiel
 type: personne
 cercle: "Bar-Ilan"
 metier: "Data analyst"
