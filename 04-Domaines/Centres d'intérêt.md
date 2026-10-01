@@ -1,15 +1,34 @@
 ---
 type: domaine
-tags: []
+tags: [interets]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 # Mes centres d'intérêt
 
-*À remplir.*
+## Tech
+- Développement — c'est mon métier.
+- L'IA : je bosse beaucoup avec.
+- La tech en général.
+- L'actualité.
 
-## Passions
+## Le cerveau et le comportement humain
+- Les recherches en psychologie sociale.
+- Comment fonctionne le cerveau.
+- Économie comportementale, biais cognitifs, prise de décision.
+- Le mentalisme.
+- La négociation — voir [[Livres que j'ai aimés]].
 
-## Sujets que je creuse en ce moment
+**Auteurs que je suis :** Dan Ariely, Albert Moukheiber, Olivier Sibony, Daniel Kahneman, Fabien Olicard.
 
-## Envies à explorer
+## Films
+- Les films qui cassent la tête et ceux à gros plot twist.
+- L'univers Marvel / Avengers.
+- Voir [[Films que j'ai aimés]].
+
+## Musique
+- Pas d'instrument. Un tout petit peu de guitare quand j'étais petit.
+
+## Sport
+- Je n'en fais pas en ce moment. J'ai fait un peu de squash à une époque.
+- J'aimerais m'y remettre — voir [[Objectifs]].
