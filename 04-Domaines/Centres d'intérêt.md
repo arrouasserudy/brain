@@ -21,6 +21,10 @@ updated: 2026-10-01
 
 **Auteurs que je suis :** Dan Ariely, Albert Moukheiber, Olivier Sibony, Daniel Kahneman, Fabien Olicard.
 
+## Investissement et organisation
+- L'investissement en général — voir [[Finances]].
+- Gérer mon temps et mon argent avec des outils (ex. Moneytor).
+
 ## Films
 - Les films qui cassent la tête et ceux à gros plot twist.
 - L'univers Marvel / Avengers.
