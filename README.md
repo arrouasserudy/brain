@@ -3,6 +3,7 @@
 Coffre Obsidian synchronisé via GitHub. Rudy raconte, Claude range.
 
 ## Structure
+- `À faire.md` — toutes les tâches, avec échéances
 - `00-Inbox/` — notes brutes pas encore triées
 - `01-Journal/` — une note par jour (`AAAA-MM-JJ.md`)
 - `02-Personnes/` — une note par personne

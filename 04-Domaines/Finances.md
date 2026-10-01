@@ -15,4 +15,9 @@ updated: 2026-10-01
 - Ce n'est pas super facile.
 - Moneytor : la gestion du budget est pas mal, mais ça reste peu intuitif.
 
+## Ma société
+- Ouverte à mon nom en janvier 2026.
+- Jamais utilisée, aucun revenu.
+- À fermer avant décembre 2026 pour ne pas devoir payer plein pot — voir [[À faire]].
+
 ## Liens
