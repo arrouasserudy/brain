@@ -13,5 +13,6 @@ updated: 2026-10-01
 ## Gestion de l'argent et du temps
 - J'essaie beaucoup de gérer mon temps et mon argent avec des outils comme **Moneytor**.
 - Ce n'est pas super facile.
+- Moneytor : la gestion du budget est pas mal, mais ça reste peu intuitif.
 
 ## Liens
