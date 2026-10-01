@@ -11,4 +11,10 @@ updated: {{date}}
 
 ## Contexte
 
+## Centres d'intérêt
+
+## Idées cadeaux
+- Idées :
+- Déjà offert :
+
 ## Historique

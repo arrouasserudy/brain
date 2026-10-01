@@ -3,7 +3,7 @@ type: personne
 aliases: [Elisabeth, maman, ma mère]
 tags: [famille]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 # Babette (Elisabeth)
 
@@ -13,3 +13,7 @@ updated: 2026-09-30
 
 ## Centres d'intérêt
 - Tout ce qui est naturel : huiles essentielles, relaxation, tai-chi, réflexologie.
+
+## Idées cadeaux
+- Idées :
+- Déjà offert :

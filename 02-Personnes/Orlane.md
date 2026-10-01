@@ -3,7 +3,7 @@ type: personne
 aliases: [ma sœur]
 tags: [famille]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 # Orlane
 
@@ -16,6 +16,12 @@ updated: 2026-09-30
 - Anaël — 9 ans
 - Liam — 5 ans
 - Adam — 4 ans
+
+## Centres d'intérêt
+
+## Idées cadeaux
+- Idées :
+- Déjà offert :
 
 ## À vérifier
 - Orthographe du prénom (compris « Orlan » à l'oral).

@@ -61,3 +61,10 @@ Réponds dans l'ordre que tu veux, à l'écrit ou à l'oral ; je reporte les ré
 - Tu veux une page d'accueil (tableau de bord) qui s'ouvre au lancement d'Obsidian ?
 
 ## Réponses
+
+### 2026-10-01 — section 1 (à quoi il doit servir), réponses à l'oral
+- **La logistique de la maison :** retrouver les teoudot zehout, savoir si les enfants sont inscrits au centre aéré, ce qu'il reste à payer pour l'école → [[Maison]].
+- **La voiture :** l'assurance est-elle renouvelée, quand expire-t-elle, quand faire la révision → [[Voiture]].
+- **Les anniversaires et cadeaux :** retrouver vite les dates, et que Claude **cherche sur Internet** des cadeaux en rapport avec la personne et ses centres d'intérêt → sections « Centres d'intérêt » et « Idées cadeaux » sur chaque fiche.
+- **Mes envies d'achat** → [[Envies d'achat]].
+- **Envie (pas de projet pour l'instant) :** un agent proactif qui ferait une veille quotidienne sur mes centres d'intérêt (IA en tête) avec un document lisible en 5 minutes, et me proposerait des nouveautés (gadgets…).

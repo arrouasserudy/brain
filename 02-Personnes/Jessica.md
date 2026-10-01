@@ -3,7 +3,7 @@ type: personne
 aliases: [ma femme]
 tags: [famille]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 # Jessica
 
@@ -19,5 +19,9 @@ updated: 2026-09-30
 
 ## Ce qui compte pour elle
 - Très religieuse, elle aime beaucoup tout ce qui touche à la religion et à la Torah.
+
+## Idées cadeaux
+- Idées :
+- Déjà offert :
 
 ## Historique

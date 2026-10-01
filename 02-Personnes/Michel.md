@@ -3,7 +3,7 @@ type: personne
 aliases: [papa, mon père]
 tags: [famille]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 # Michel
 
@@ -11,3 +11,9 @@ updated: 2026-09-30
 **Naissance :** 20 juillet 1963
 **Métier :** informaticien
 **Habite :** Netanya
+
+## Centres d'intérêt
+
+## Idées cadeaux
+- Idées :
+- Déjà offert :
