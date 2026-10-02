@@ -13,7 +13,7 @@ Lire ce fichier, puis seulement le `_index.md` du dossier pertinent, puis seulem
 - `03-Projets/` (3) — Choses avec un objectif et une fin : side projects, démarches administratives.
 - `04-Domaines/` (10) — Responsabilités continues : famille, maison, voiture, finances, travail, objectifs, réseau, papiers.
 - `05-Idees/` (0) — Idées, réflexions, pistes business.
-- `06-Ressources/` (6) — Listes et savoirs : livres, films, liens, envies d'achat, méthodes.
+- `06-Ressources/` (7) — Listes et savoirs : livres, films, liens, envies d'achat, méthodes.
 - `07-Archives/` (0) — Projets terminés ou abandonnés.
 - `Templates/` (3) — Modèles de notes (ne pas lire sauf pour créer une note).
 
