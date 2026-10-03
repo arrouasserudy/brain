@@ -3,7 +3,7 @@ description: Mes objectifs pro et perso (expert IA, revenus, sport)
 type: domaine
 tags: []
 created: 2026-09-30
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 # Mes objectifs
 
@@ -15,6 +15,7 @@ updated: 2026-10-01
 
 ## Cette année
 - [ ] Me remettre au sport — idéalement le squash, que je pratiquais un peu à une époque.
+  - 2026-10-03 — premier pas : j'ai appris le stomach vacuum.
 
 ## Ce trimestre
 

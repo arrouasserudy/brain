@@ -3,7 +3,7 @@ description: Mes centres d'intérêt : tech et IA, cerveau et biais, investissem
 type: domaine
 tags: [interets]
 created: 2026-09-30
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 # Mes centres d'intérêt
 
@@ -37,3 +37,4 @@ updated: 2026-10-01
 ## Sport
 - Je n'en fais pas en ce moment. J'ai fait un peu de squash à une époque.
 - J'aimerais m'y remettre — voir [[Objectifs]].
+- 2026-10-03 — J'ai appris à faire le stomach vacuum (gainage du transverse) : c'est top.
