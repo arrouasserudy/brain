@@ -25,5 +25,5 @@ Une fiche par personne : relation, dates, centres d'intérêt, idées cadeaux.
 - [[Samy]] — beau-père (père de Jessica), Netanya · alias : beau-père
 - [[Simon]] — data analyst, ami de Bar-Ilan, partenaire technique potentiel
 - [[Teddy]] — avocat, ami de Bar-Ilan, associé potentiel
-- [[Yoav]] — développeur, beau-fils de Jonas, partenaire technique potentiel
+- [[Yoav]] — un de mes meilleurs amis depuis l'école, développeur, Ra'anana, marié, 4e enfant attendu début octobre 2026
 - [[Yochai]] — mon fils aîné, né le 07/07/2018

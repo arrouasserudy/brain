@@ -2,7 +2,7 @@
 description: Graphe de mes contacts par cercle de vie, associés potentiels
 type: domaine
 tags: [reseau]
-updated: 2026-09-29
+updated: 2026-10-06
 ---
 # Réseau
 
@@ -33,7 +33,8 @@ graph LR
   FAM --> Brigitte[Brigitte · budget / podcast]
   FAM --> Michaela[Michaela · ergothérapeute]
   GS --> Itzik[Itzik · ostéo/kiné]
-  NC --> Yoav[Yoav · développeur]
+  ECOLE --> Yoav[Yoav · développeur · meilleur ami]
+  RAA --> Yoav
   Yoav -. beau-père .- Jonas[Jonas · artisan]
   Eli -. projet ergo .- Michaela
 ```
@@ -41,18 +42,18 @@ graph LR
 ## Cercles
 | Cercle | Personnes | Statut |
 |---|---|---|
-| École (Nahalal ?) | — | nom à confirmer, à remplir |
+| École (Nahalal ?) | [[Yoav]] | commencé, nom de l'école à confirmer |
 | Armée | — | à remplir |
 | Amis d'Ashdod | — | à remplir |
 | Amis de Netanya | — | à remplir |
-| Amis de Ra'anana | — | à remplir (jugé à fort potentiel) |
+| Amis de Ra'anana | [[Yoav]] (y habite) | commencé (jugé à fort potentiel) |
 | Amis de Givat Shmuel | [[Itzik]] | commencé |
 | Bar-Ilan | [[Teddy]], [[Avigaël]], [[Simon]], [[Eli]] | commencé (jugé à fort potentiel) |
 | McCann | — | à remplir |
 | Autres boîtes | — | noms à donner |
 | Formation Infinity | — | à remplir |
 | Famille | [[Brigitte]], [[Michaela]] | commencé |
-| À préciser | [[Yoav]], [[Jonas]] | rattacher à un cercle |
+| À préciser | [[Jonas]] (beau-père de Yoav) | rattacher à un cercle |
 
 ## Associés potentiels
 - **Experts métier :** [[Teddy]], [[Avigaël]], [[Eli]], [[Brigitte]], [[Michaela]], [[Jonas]], [[Itzik]]

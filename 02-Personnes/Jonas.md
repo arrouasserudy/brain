@@ -14,7 +14,7 @@ updated: 2026-09-29
 **Cercle :** [[À préciser]]
 
 ## Contexte
-Beau-père de [[Yoav]]. Douleurs typiques : devis, factures, relances, rendez-vous.
+Beau-père de [[Yoav]] (mon meilleur ami d'école). Douleurs typiques : devis, factures, relances, rendez-vous.
 
 ## Historique
 - 2026-09-25 — ajouté lors de la cartographie du réseau (recherche d'associés).
