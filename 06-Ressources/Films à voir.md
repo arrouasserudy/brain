@@ -13,5 +13,6 @@ Une fois vu : cocher, et s'il m'a plu, l'ajouter à [[Films que j'ai aimés]].
 ## À voir
 - [ ] **La maison de nos rêves** — avec Kev Adams · ça a l'air marrant · ajouté le 2026-10-02
 - [ ] **The Man from Earth** (2007) — Richard Schenkman, scénario de Jerome Bixby · huis clos qui fait réfléchir, dans la veine des films qui cassent la tête · ajouté le 2026-10-07
+- [ ] **Ad Astra** (2019) — James Gray, avec Brad Pitt · SF spatiale, dans la veine d'Interstellar · ajouté le 2026-10-07
 
 ## Vus
