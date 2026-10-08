@@ -23,3 +23,12 @@ Le coffre est organisé comme des skills : on ne charge que ce qui est pertinent
 - Logistique du foyer : papiers, inscriptions et paiements des enfants, échéances de la voiture → `04-Domaines/Maison.md`, `Voiture.md`, `Papiers et numéros utiles.md`.
 - Anniversaires : tableau dans `04-Domaines/Famille.md`. Pour des idées de cadeaux, lire les sections « Centres d'intérêt » et « Idées cadeaux » de la fiche personne, puis chercher sur le web des cadeaux adaptés.
 - Tâches avec échéance : `À faire.md`.
+
+## Automatismes (tâches programmées, dans le cloud)
+- Rudy autorise Claude à créer, modifier ou supprimer des rappels et des tâches programmées **sans lui demander confirmation** (dit le 2026-10-08). Les envois se font en notification sur son téléphone et par mail.
+- Tâches en place :
+  - **Brief du matin** — dimanche à vendredi, 7h17 (heure d'Israël) : échéances à 14 jours, anniversaires avec idées cadeaux, veille IA et agents, une découverte.
+  - **Revue de la semaine** — jeudi, 19h58 : ce qui a bougé, ce qui coince, les 3 semaines à venir, questions ouvertes, suggestions.
+  - Rappels ponctuels : osek patur (11 oct. et 15 nov. 2026), 60 ans de Babette (12 oct. 2026), révision de la voiture (18 oct. 2026).
+- Les tâches programmées lisent le coffre **en lecture seule** : elles ne modifient rien. Quand Rudy signale qu'une chose est faite, la cocher dans le coffre pour que les rappels suivants en tiennent compte.
+- Pas d'envoi pendant Shabbat (aucune tâche programmée le samedi).
