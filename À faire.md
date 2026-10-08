@@ -14,6 +14,7 @@ Quand c'est fait : cocher, ajouter la date, et déplacer dans « Fait ».
 - [ ] **Fermer mon osek patur** — avant décembre 2026 · procédure : [[Fermer l'osek patur]] · ouvert à mon nom en janvier 2026, jamais utilisé, aucun revenu. À fermer avant décembre pour ne pas devoir payer plein pot. Voir [[Finances]].
 
 ## À faire bientôt
+- [ ] **Rendez-vous physiothérapeute (épaule)** — 2026-11-26 · préparer les notes avant · [[Sante]]
 - [ ] **Révision de la voiture** — avant fin octobre 2026 · prévue en août, pas faite · [[Voiture]]
 - [ ] Vérifier que l'assurance et le test de la voiture ont bien été renouvelés en août · [[Voiture]]
 

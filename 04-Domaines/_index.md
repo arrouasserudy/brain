@@ -13,6 +13,6 @@ Responsabilités continues : famille, maison, voiture, finances, travail, object
 - [[Objectifs]] — Mes objectifs pro et perso (expert IA, revenus, sport)
 - [[Papiers et numéros utiles]] — Teoudot zehout de la famille et numéro de la voiture
 - [[Reseau]] — Graphe de mes contacts par cercle de vie, associés potentiels
-- [[Sante]] — Santé (vide pour l'instant)
+- [[Sante]] — Ma santé — douleur à l'épaule depuis quelques mois, rendez-vous chez le physiothérapeute le 26/11/2026
 - [[Travail]] — Mon poste chez Blocks et mes sources de revenus à côté
 - [[Voiture]] — Voiture : échéances assurance, test et révision
