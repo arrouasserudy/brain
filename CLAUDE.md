@@ -29,6 +29,6 @@ Le coffre est organisé comme des skills : on ne charge que ce qui est pertinent
 - Tâches en place :
   - **Brief du matin** — dimanche à vendredi, 7h17 (heure d'Israël) : échéances à 14 jours, anniversaires avec idées cadeaux, veille IA et agents, une découverte.
   - **Revue de la semaine** — jeudi, 19h58 : ce qui a bougé, ce qui coince, les 3 semaines à venir, questions ouvertes, suggestions.
-  - Rappels ponctuels : osek patur (11 oct. et 15 nov. 2026), 60 ans de Babette (12 oct. 2026), révision de la voiture (18 oct. 2026), physio pour l'épaule (veille du rendez-vous, 25 nov. 2026).
+  - Rappels ponctuels : osek patur (11 oct. et 15 nov. 2026), 60 ans de Babette (12 oct. 2026), révision de la voiture (18 oct. 2026), physio pour l'épaule (veille du rendez-vous, 25 nov. 2026), export des historiques YouTube et Spotify (11 oct. 2026).
 - Les tâches programmées lisent le coffre **en lecture seule** : elles ne modifient rien. Quand Rudy signale qu'une chose est faite, la cocher dans le coffre pour que les rappels suivants en tiennent compte.
 - Pas d'envoi pendant Shabbat (aucune tâche programmée le samedi).
