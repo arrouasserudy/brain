@@ -3,7 +3,7 @@ description: Films à voir (envies, recommandations) et films vus depuis la list
 type: liste
 tags: [films]
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 # Films à voir
 
@@ -14,5 +14,7 @@ Une fois vu : cocher, et s'il m'a plu, l'ajouter à [[Films que j'ai aimés]].
 - [ ] **La maison de nos rêves** — avec Kev Adams · ça a l'air marrant · ajouté le 2026-10-02
 - [ ] **The Man from Earth** (2007) — Richard Schenkman, scénario de Jerome Bixby · huis clos qui fait réfléchir, dans la veine des films qui cassent la tête · ajouté le 2026-10-07
 - [ ] **Ad Astra** (2019) — James Gray, avec Brad Pitt · SF spatiale, dans la veine d'Interstellar · ajouté le 2026-10-07
+- [ ] **Avengers: Doomsday** — Marvel · j'ai regardé les bandes-annonces · ajouté le 2026-10-09
+- [ ] **Spider-Man: Brand New Day** — Marvel · j'ai regardé la bande-annonce · ajouté le 2026-10-09
 
 ## Vus

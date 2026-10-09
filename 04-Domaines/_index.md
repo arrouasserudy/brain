@@ -6,7 +6,7 @@ description: Index généré de 04-Domaines — ne pas éditer à la main
 
 Responsabilités continues : famille, maison, voiture, finances, travail, objectifs, réseau, papiers.
 
-- [[Centres d'intérêt]] — Mes centres d'intérêt : tech et IA, cerveau et biais, investissement, films, sport
+- [[Centres d'intérêt]] — Mes centres d'intérêt : tech et IA (avec mes sources de veille), cerveau et psycho, prise de parole, entrepreneuriat, finance perso, interviews, films, musique, sport — et mes habitudes de contenu
 - [[Famille]] — Arbre de la famille et tableau des anniversaires
 - [[Finances]] — Placements (S&P 500, actions), gestion du budget (Moneytor), osek patur
 - [[Maison]] — Logistique du foyer : inscriptions et paiements des enfants, rendez-vous, papiers

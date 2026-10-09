@@ -12,4 +12,5 @@ Listes et savoirs : livres, films, liens, envies d'achat, méthodes.
 - [[Liens à lire ou voir]] — Liens à lire ou à voir (articles, vidéos, podcasts)
 - [[Livres que j'ai aimés]] — Livres que j'ai aimés
 - [[Livres à lire]] — Livres à lire, en cours et lus
+- [[Musique que j'aime]] — artistes français, israéliens et internationaux, et mes morceaux les plus rejoués (d'après mon historique YouTube)
 - [[Second cerveau — bonnes pratiques]] — Synthèse des bonnes pratiques second cerveau (PARA, CODE, Obsidian + IA)
