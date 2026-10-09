@@ -1,5 +1,5 @@
 ---
-description: Mes centres d'intérêt : tech et IA (avec mes sources de veille), cerveau et psycho, prise de parole, entrepreneuriat, finance perso, interviews, films, musique, sport — et mes habitudes de contenu
+description: Mes centres d'intérêt : tech et IA (sources de veille, outils IA essayés), cerveau et psycho, prise de parole, entrepreneuriat, finance perso, interviews, films, musique, sport — et mes habitudes de contenu
 type: domaine
 tags: [interets]
 created: 2026-09-30
@@ -14,6 +14,12 @@ updated: 2026-10-09
 - L'actualité.
 
 **Mes sources de veille IA (YouTube) :** Estherium, Underscore_, PixelCrafted (Ingénieur IA), Mike Codeur — beaucoup de contenu autour de Claude Code.
+
+**Outils IA que j'ai essayés (2026)** — d'après mes connexions Google et inscriptions, environ une nouvelle appli par semaine :
+- Assistants : Claude, Grok (xAI), ChatGPT
+- Créer : HeyGen (avatars vidéo), OpenArt (images), davinci.ai
+- Construire : Supabase, Fly.io, Voyage AI (embeddings), n8n, Rasa, Atlassian
+- Au quotidien : Wispr (dictée), photobill, Moneytor
 
 ## Le cerveau et le comportement humain
 - Les recherches en psychologie sociale.
