@@ -6,4 +6,4 @@ description: Index généré de 05-Idees — ne pas éditer à la main
 
 Idées, réflexions, pistes business.
 
-*(vide)*
+- [[Mes idées de produits]] — Mes idées de produits et de startups (oct. 2025 → oct. 2026), datées, avec leur état — tirées de mon WhatsApp perso

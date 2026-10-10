@@ -4,7 +4,7 @@ type: personne
 aliases: [ma femme]
 tags: [famille]
 created: 2026-09-30
-updated: 2026-10-01
+updated: 2026-10-10
 ---
 # Jessica
 
@@ -16,7 +16,7 @@ updated: 2026-10-01
 ## Parcours
 - Bioinformaticienne.
 - A suivi une formation en data science.
-- En recherche d'emploi (septembre 2026).
+- En recherche d'emploi (septembre 2026), après son congé maternité — suivi dans [[Recherche d'emploi de Jessica]].
 
 ## Ce qui compte pour elle
 - Très religieuse, elle aime beaucoup tout ce qui touche à la religion et à la Torah.

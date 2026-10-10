@@ -2,7 +2,7 @@
 description: Logistique du foyer : activités des enfants au matnas Merhav (foot de Yochai, tsaharon de Lavi), paiements le 15, rendez-vous, papiers
 type: domaine
 tags: [maison, logistique]
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 # Maison et logistique
 
@@ -31,6 +31,13 @@ Pour annuler une activité : page « ביטול חוגים ופעילויות »
 | [[Yochai]] | Foot (matnas) | 230 ₪/mois | le 15 de chaque mois, par carte | Septembre payé (reçu du 17/09/2026) |
 | [[Lavi]] | Tsaharon gan Lilach | 1 100 ₪/mois | le 15 de chaque mois, par carte | Septembre payé (reçu du 17/09/2026) |
 | [[Yochai]] + [[Lavi]] | Été 2026 : école d'été + camp Lilach (et foot de juillet) | 3 220 ₪ | 15/07/2026 | Payé |
+
+## Courses habituelles
+Tirées de mes listes WhatsApp (oct. 2025 → oct. 2026).
+- **Chaque semaine :** 1,5 kg de bananes, 1 kg de pommes, 3 kg de tomates cerises (environ 2 barquettes), 2 avocats, 3 lentilles, d'autres fruits.
+- **Souvent :** café, lait, beurre, concombres, tomates, céréales (kariot), pitot, fromage blanc, petits fromages, bamba, jus de raisin, Coca Zero, pack d'eau.
+- **Bébé :** couches, lingettes.
+- **Repas de Shabbat :** viande n°5, 2 kg de viande hachée, vin pour la viande, jus de raisin, barquettes alu, couverts et assiettes jetables.
 
 ## Rendez-vous et échéances du foyer
 

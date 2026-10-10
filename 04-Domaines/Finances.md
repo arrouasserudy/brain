@@ -2,7 +2,7 @@
 description: Placements (S&P 500, actions ; IBKR, Meitav, Bit2C), prélèvements et abonnements par jour du mois, budget (Moneytor), osek patur
 type: domaine
 tags: [finances]
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 # Finances
 
@@ -10,6 +10,8 @@ updated: 2026-10-09
 - Surtout du **S&P 500**.
 - J'achète aussi des actions de temps en temps.
 - L'investissement m'intéresse en général — voir [[Centres d'intérêt]].
+
+**Plan noté le 2026-10-02 :** 30 000 ₪ en compte monétaire (kaspit), 20 000 ₪ en actions, investis en 4 fois 5 000 ₪.
 
 **Où sont mes placements (plateformes) :**
 - Interactive Brokers (via son représentant israélien, inter-il.com)
